@@ -1,0 +1,7 @@
+main: me.Folding.Thirst.Main
+name: Thirst
+version: 1.0
+author: Folding
+commands: 
+  water:
+description: -no desc-
